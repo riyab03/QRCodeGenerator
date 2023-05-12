@@ -1,2 +1,0 @@
-# QRCodeGenerator
-python,pyqrcode,tkinter
